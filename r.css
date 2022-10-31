@@ -1,0 +1,183 @@
+
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+.verticalbar
+{
+    background-color: black;
+    display: inline-block;
+    padding-top: 30px;
+    padding-left: 70px;
+    padding-bottom:700px;
+    padding-right: 70px;
+    position: fixed;
+   
+}
+.logo
+{
+    border: 6px solid grey;
+    border-radius: 800px;
+    padding-left: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 15px;
+    
+}
+.drop{
+    padding-inline-start: 3px;
+    
+    
+    
+}
+.anchor{
+   font-size: 25px;
+   text-decoration:none ;
+   
+}
+
+
+.myimage{
+  
+    margin-left: 350px;
+}
+
+tr:nth-child(even){
+    padding:3px;
+    background-color: #99a099;
+   
+
+}
+.row
+{
+    background-color: rgb(6, 207, 6);
+   
+    
+}
+td,th{
+    padding:20px;
+    font-size: 20px;
+}
+table{
+    padding-left:100px;
+   
+   
+}
+
+.skill{
+    width:100px;
+    height:90px;
+    padding: 20px;
+    
+}
+.pale{
+   
+   
+    padding: 60px;
+    z-index: 1;
+}
+    
+
+.ho{
+    padding:40px;
+    width: 200px;
+    
+}
+.ho1{
+    padding:30px;
+    width: 200px;
+    
+}
+.ho2{
+    padding:40px;
+    width: 200px;
+    align-items: center;
+    
+}
+.y{
+     
+     
+     margin-left: 30px;
+     padding: 10px;
+    
+}
+.contact2{
+    width: 100px;
+    height:100px;
+    padding-left: 50px;
+   
+
+}
+.overlay{
+    margin-left: 20px;
+    position: absolute;
+    
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5); /* Black see-through */
+    color: #f1f1f1;
+    width: 25%;
+    transition: .5s ease;
+    opacity:0;
+    color: white;
+    font-size: 20px;
+    padding: px;
+    text-align: center;
+}
+.overlay:hover  {
+    opacity: 1;
+  }
+  .overlay{
+    z-index: 1;
+    padding-left:40px;
+    top:300px;
+    
+
+  }
+  .image{
+   
+   
+    
+    z-index: 2;
+    padding: 60px;
+  }
+  .qualification{
+    
+    background-size: contain;
+    z-index: 2;
+    margin-left: 30px;
+  
+  }
+  .contactpage{
+   
+    
+    z-index: inherit;
+    margin-left: 30px;
+  
+    
+    
+
+  }
+  .main{
+    background-color: blue;
+    margin-left: 300px;
+  }
+  h2{
+    
+    padding: 20px;
+    color: blanchedalmond;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+
+    
+  }
+  p{
+    padding-left: 10px;
+    color: orangered;
+    font-size: 30px;
+    
+    
+  }
+ 
+  hr{
+    border-width: 20px;
+  }
